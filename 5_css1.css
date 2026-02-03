@@ -43,21 +43,20 @@ h3{
     list-style-type: decimal-leading-zero;
 } 
 
+.w3-link {
+    color: red; 
+}
 
- .w3-link {
-    color: red; /* change the link color */
-  }
-
-  table, th, td {
+table, th, td {
     border: 2px solid black;
     border-collapse: collapse;
     padding: 10px;
-  }
+}
 
-  th {
+th {
     background-color: lightgray;
-  }
+}
 
-    td {
-        background-color: white;
-    }
+td {
+    background-color: white;
+}
